@@ -1,0 +1,25 @@
+
+.example-radio-group {
+  display: flex;
+  flex-direction: column;
+  margin: 15px 0;
+  align-items: flex-start;
+}
+
+.example-radio-button {
+  margin: 5px;
+}
+.mat-form-field{
+  width: 100%;
+}
+.example-form-field {
+  margin-right: 20px;
+  width: 100%;
+}
+.button{
+  text-align: right;
+ 
+}
+.button button{
+  margin: 5px;
+}
