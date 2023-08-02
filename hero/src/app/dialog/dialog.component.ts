@@ -26,7 +26,6 @@ export class DialogComponent implements OnInit {
     );
     this.myForm.reset();
   }
-
   dialog: {
     name: string;
     price: string;
